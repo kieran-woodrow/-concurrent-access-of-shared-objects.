@@ -10,8 +10,6 @@ Implementation of the Peterson Algorithm and Bakery Algorithm.
 - [Technology Stack](#-technology-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Running the Project](#-running-the-project)
-- [Screenshots](#-screenshots)
 ---
 
 ## 📚 Project Overview
@@ -45,15 +43,3 @@ Implementation of the Peterson Algorithm and Bakery Algorithm.
 Can be run in vs code or terminal.
 
 ---
-
-## 🏃🏻‍♂️ Running The Project
-
-1. Run the ThreadDemoCounter.java file for task 1
-2. Run the ThreadDemoCounter.java file for task 2
-3. Run the ThreadDemoCounter.java file for task 3
-
----
-
-## 📷 Screenshots
-
-![threads]()
