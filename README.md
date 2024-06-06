@@ -24,7 +24,7 @@ Implementation of concurrency of a shared object
 
 ### Project code language used
 
- ![Java](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
+![AGPL License](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💻 IDE
 
