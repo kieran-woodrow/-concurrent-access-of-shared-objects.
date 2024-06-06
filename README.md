@@ -1,7 +1,7 @@
 
 # 🏷️ Project Name
 
-Implementation of the Peterson Algorithm and Bakery Algorithm.
+Implementation of concurrency of a shared object
 
 ---
 ## 🗂️ Table Of Contents
